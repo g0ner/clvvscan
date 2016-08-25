@@ -1,0 +1,17 @@
+*.pyc
+*.idea
+*.db
+*.db-*
+*.sass-cache
+*.orig
+*.json
+config/*
+!config/config.ini.example
+static/dist/
+node_modules/
+venv/
+core
+src/
+_build
+_build_html
+beehive.*
